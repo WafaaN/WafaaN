@@ -20,7 +20,6 @@ I am a Masters student in data engineering and part-time digital transformation 
 - 📚 Topics of Interest: **Data visualization**, **Anomaly detection using ML**, **Natural Language Processing (NLP)** and **Mathmatical Art**
 - 🌱 I’m currently learning: ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?&style=for-the-badge&logo=neo4j&logoColor=white)
 - 🌐 You can contact me on: [![Gmail](https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wafaa.abusadah@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wabusadah/)
-
 --- 
 
 ### 💻 Tech Stack
