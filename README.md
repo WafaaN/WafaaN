@@ -30,7 +30,6 @@ I am a Masters student in data engineering and part-time digital transformation 
 
 #### Productivity & Other
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=white"> 
-
 --- 
 
 ### 📊 GitHub Stats:
