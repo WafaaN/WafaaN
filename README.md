@@ -40,9 +40,3 @@ I am a Masters student in data engineering and part-time digital transformation 
   <img height="180em"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WafaaN&amp;layout=compact&amp;langs_count=8&amp;theme=default" style="max-width: 100%;">
 </a>
 </p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WafaaN&count_private=true&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WafaaN&show_icons=true&locale=en&layout=compact" align = "center"/>
-</p>
-
