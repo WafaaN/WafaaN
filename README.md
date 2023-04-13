@@ -41,3 +41,8 @@ I am a Masters student in data engineering and part-time digital transformation 
 </a>
 </p>
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WafaaN&count_private=true&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WafaaN&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
+
