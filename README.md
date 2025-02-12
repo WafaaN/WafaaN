@@ -26,9 +26,6 @@ I am a Masters student in data engineering and part-time digital transformation 
 #### Business Intelligence Applications 
 <img src="https://img.shields.io/badge/tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" /> <img src ="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-#### Productivity & Office Tools
-<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=white"> 
-
 ---
 ### 📊 GitHub Stats:
 
