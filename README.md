@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi, my name is Wafaa 👋
 I am a Masters student in data engineering and part-time digital transformation consultant. Here you will find examples of projects I completed as part of my studies, as well as personal projects in topics that interests me.
 
-- 📚 Topics of Interest/Studies: **Data visualization**, **Legal text processing solutions**, **Automating compliance checks in software systems** and **Mathmatical Art**
+- 📚 Topics of Interest/Studies: **Data visualization**, **Legal text processing solutions**, **ML for information security**, and **Mathematical Art**
 - 🌱 I’m currently learning: ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?&style=for-the-badge&logo=neo4j&logoColor=white)
 - 🌐 You can contact me on:[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wabusadah/)
 
