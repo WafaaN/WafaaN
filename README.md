@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 ### Hi, my name is Wafaa 👋
 I am a Masters student in data engineering and part-time digital transformation consultant. Here you will find examples of projects I completed as part of my studies, as well as personal projects in topics that interests me.
 
-<p dir="auto">I am <code>DevOps/Automate-everything Approach Lover</code> <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> and <code>Stock Market Enthusiast</code> <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>.</p>
-
-- 📚 Topics of Interest: **Data visualization**, **Anomaly detection using ML**, **Natural Language Processing (NLP)** and **Mathmatical Art**
+- 📚 Topics of Interest: **Data visualization**, **Anomaly detection using ML**, **Automation of legal compliance in software systems** and **Mathmatical Art**
 - 🌱 I’m currently learning: ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?&style=for-the-badge&logo=neo4j&logoColor=white)
-- 🌐 You can contact me on: [![Gmail](https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:wafaa.abusadah@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wabusadah/)
+- 🌐 You can contact me on:[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wabusadah/)
 
 ---
 ### 💻 Tech Stack
