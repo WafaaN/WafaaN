@@ -39,7 +39,8 @@ I am a Masters student in data engineering and part-time digital transformation 
 ---
 ### 🚀 Featured Projects
 
-#### [📌 Credit Card Fraud Detection](https://github.com/WafaaN/credit-card-fraud)
+#### [📌 Project 1 - City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R)
+Using R, data pipeline, data wrangling, data cleaning, descriptive statistics and statistical  hypothesis testing  
 Using machine learning to detect fraudulent transactions. Includes data preprocessing, feature engineering, and model evaluation.
 ![Fraud Detection](https://via.placeholder.com/400)  
 
