@@ -27,11 +27,26 @@ I am a Masters student in data engineering and part-time digital transformation 
 <img src="https://img.shields.io/badge/tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" /> <img src ="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 ---
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 
-<!-- <p align="center" dir="auto">
+<p align="center" dir="auto">
 <a href="https://github.com/WafaaN">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WafaaN&amp;show_icons=true&amp;theme=default&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
   <img height="180em"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WafaaN&amp;layout=compact&amp;langs_count=8&amp;theme=default" style="max-width: 100%;">
 </a>
 </p> -->
+
+---
+### 🚀 Featured Projects
+
+#### [📌 Credit Card Fraud Detection](https://github.com/WafaaN/credit-card-fraud)
+Using machine learning to detect fraudulent transactions. Includes data preprocessing, feature engineering, and model evaluation.
+![Fraud Detection](https://via.placeholder.com/400)  
+
+#### [📌 Legal Text Processing](https://github.com/WafaaN/legal-text-nlp)
+NLP-based pipeline to extract insights from legal documents, applying Named Entity Recognition and text classification.
+![Legal NLP](https://via.placeholder.com/400)  
+
+#### [📌 Data Visualization: Barcelona City Case Study](https://github.com/WafaaN/barcelona-city)
+Exploratory data analysis and visualization of urban mobility in Barcelona using Python & Tableau.
+![Barcelona Case Study](https://via.placeholder.com/400)
