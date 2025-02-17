@@ -26,8 +26,8 @@ I am a Masters student in data engineering and part-time digital transformation 
 #### Business Intelligence Applications 
 <img src="https://img.shields.io/badge/tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" /> <img src ="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
----
-<!-- ### 📊 GitHub Stats:
+<!-- ---
+ ### 📊 GitHub Stats:
 
 <p align="center" dir="auto">
 <a href="https://github.com/WafaaN">
@@ -39,9 +39,8 @@ I am a Masters student in data engineering and part-time digital transformation 
 ---
 ### 🚀 Featured Projects
 
-#### [📌 Project 1 - City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R)
-Using R, data pipeline, data wrangling, data cleaning, descriptive statistics and statistical  hypothesis testing  
-Using machine learning to detect fraudulent transactions. Includes data preprocessing, feature engineering, and model evaluation.
+#### [📌 City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R)
+Using R, created a data pipeline: reading, data wrangling and cleaning, descriptive statistics, plots and  statistical  hypothesis testing.
 ![Fraud Detection](https://via.placeholder.com/400)  
 
 #### [📌 Legal Text Processing](https://github.com/WafaaN/legal-text-nlp)
