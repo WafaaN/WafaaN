@@ -29,9 +29,9 @@ I am a Masters student in data engineering and part-time digital transformation 
 ---
 ### 📊 GitHub Stats:
 
-<p align="center" dir="auto">
+<!-- <p align="center" dir="auto">
 <a href="https://github.com/WafaaN">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WafaaN&amp;show_icons=true&amp;theme=default&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
   <img height="180em"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WafaaN&amp;layout=compact&amp;langs_count=8&amp;theme=default" style="max-width: 100%;">
 </a>
-</p>
+</p> -->
