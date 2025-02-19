@@ -17,14 +17,14 @@ Here, you will find examples of my university and personal projects showcasing c
 ---
 ### 🚀 Featured Projects
 
-#### [📌 City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R)
+#### [City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R)
 Using R, created a data pipeline: reading, data wrangling and cleaning, descriptive statistics, plots and  statistical  hypothesis testing.
 ![](images/project1.png)
 
-#### [📌 Legal Text Processing](https://github.com/WafaaN/legal-text-nlp)
+#### [Legal Text Processing](https://github.com/WafaaN/legal-text-nlp)
 NLP-based pipeline to extract insights from legal documents, applying Named Entity Recognition and text classification.
 ![Legal NLP](https://via.placeholder.com/400)  
 
-#### [📌 Data Visualization: Barcelona City Case Study](https://github.com/WafaaN/barcelona-city)
+#### [Data Visualization: Barcelona City Case Study](https://github.com/WafaaN/barcelona-city)
 Exploratory data analysis and visualization of urban mobility in Barcelona using Python & Tableau.
 ![Barcelona Case Study](https://via.placeholder.com/400)
