@@ -19,7 +19,7 @@ Here, you will find examples of my university and personal projects showcasing c
 
 #### [📌 City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R)
 Using R, created a data pipeline: reading, data wrangling and cleaning, descriptive statistics, plots and  statistical  hypothesis testing.
-![Fraud Detection](https://via.placeholder.com/400)  
+![](images/project1.png)
 
 #### [📌 Legal Text Processing](https://github.com/WafaaN/legal-text-nlp)
 NLP-based pipeline to extract insights from legal documents, applying Named Entity Recognition and text classification.
