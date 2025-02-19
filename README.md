@@ -23,6 +23,6 @@ Here, you will find examples of my university and personal projects showcasing c
 
 ---
 
-### 📊 Data Science Projects  
+### 📊 Personal Projects  
 - [Project Name 1](project-link) – Short description.  
 - [Project Name 2](project-link) – Short description.  
