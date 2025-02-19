@@ -18,7 +18,8 @@ Here, you will find examples of my university and personal projects showcasing c
 ### 🎓 University Projects  
 - [City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R) – R, data wrangling, exploratory plots, descriptive statistics and hypothesis testing.  
 - [Robot Dashboard](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Cloud Process Execution Engine (CPEE.org), InfluxDB time-series database, and online responsive dashboard.
-- [Eigen Faces](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Dimesnionality reduction using PCA, kernel PCA and feature selection.
+- [Eigenfaces](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Dimesnionality reduction using PCA, kernel PCA and feature selection.
+- [Spam Classifier](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – .
 
 ---
 
