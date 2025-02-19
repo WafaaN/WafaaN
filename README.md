@@ -1,7 +1,7 @@
 ### Hi, I'm Wafaa! 👋 
-I am a data governance and analytics specialist with extensive experience in technology audits, risk management, and information security compliance. Recently, I completed my M.Sc.in Data Engineering and Analytics. 
+I am a data governance and analytics specialist with extensive experience in technology audits, risk management, complaince and information security. Recently, I completed my M.Sc.in Data Engineering and Analytics. 
 
-Here, you will find examples of my university and personal projects, showcasing concepts in data science, analytics, and engineering, as well as real-world problem-solving applications.
+Here, you will find examples of my university and personal projects showcasing concepts in data science and machine learning.
 
 - 📚 Topics of Interest & Studies: **Data visualization**, **Machine Learning for Cyber Security**, and **Risk Analytics**.
 - 🌱 I’m currently learning: ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?&style=for-the-badge&logo=neo4j&logoColor=white)
