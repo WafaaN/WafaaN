@@ -15,16 +15,13 @@ Here, you will find examples of my university and personal projects showcasing c
 <img src="https://img.shields.io/badge/tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" /> <img src ="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 ---
-### 🚀 Featured Projects
+### 🎓 University Projects  
+- [City of Barcelona Case Study]([project-link](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R)) – R, data wrangling, exploratory plots, descriptive statistics and hypothesis testing.  
+- [Robot Dashboard](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Cloud Process Execution Engine (CPEE.org), InfluxDB time-series database, and an online responsive performance dashboard.
+- [Eigen Faces](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Dimesnionality reduction using PCA, kernel PCA and feature selection.
 
-#### [City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R)
-Using R, created a data pipeline: reading, data wrangling and cleaning, descriptive statistics, plots and  statistical  hypothesis testing.
-![](images/project1.png)
+---
 
-#### [Legal Text Processing](https://github.com/WafaaN/legal-text-nlp)
-NLP-based pipeline to extract insights from legal documents, applying Named Entity Recognition and text classification.
-![Legal NLP](https://via.placeholder.com/400)  
-
-#### [Data Visualization: Barcelona City Case Study](https://github.com/WafaaN/barcelona-city)
-Exploratory data analysis and visualization of urban mobility in Barcelona using Python & Tableau.
-![Barcelona Case Study](https://via.placeholder.com/400)
+### 📊 Data Science Projects  
+- [Project Name 1](project-link) – Short description.  
+- [Project Name 2](project-link) – Short description.  
