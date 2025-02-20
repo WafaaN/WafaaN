@@ -19,10 +19,10 @@ Here, you will find examples of my university and personal projects showcasing c
 - [City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R) – R, data wrangling, exploratory plots, descriptive statistics and hypothesis testing.  
 - [Robot Dashboard](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Cloud Process Execution Engine (CPEE.org), InfluxDB time-series database, and online responsive dashboard.
 - [Eigenfaces](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Dimesnionality reduction using PCA, kernel PCA and feature selection.
-- [Spam Classifier](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – .
+- [Cloud App Deployment](https://github.com/abhishekkarki/cloud-app-deployment) – development of a  cloud-native microservices application, containerization with Docker, orchestration with Kubernetes, and hosting on Google Cloud Platform (GCP) for scalability and resilience.
 
 ---
-
 ### 📊 Personal Projects  
+- [Spam Classifier](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – .
 - [Project Name 1](project-link) – Short description.  
 - [Project Name 2](project-link) – Short description.  
