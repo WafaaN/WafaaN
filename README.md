@@ -20,6 +20,7 @@ Here, you will find examples of my university and personal projects showcasing c
 - [Robot Dashboard](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Cloud Process Execution Engine (CPEE.org), InfluxDB time-series database, and online responsive dashboard.
 - [Eigenfaces](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Dimesnionality reduction using PCA, kernel PCA and feature selection.
 - [Cloud App Deployment](https://github.com/abhishekkarki/cloud-app-deployment) – development of a  cloud-native microservices application, containerization with Docker, orchestration with Kubernetes, and hosting on Google Cloud Platform (GCP) for scalability and resilience.
+- [ML Algorithms](https://github.com/WafaaN/Machine-Learning-Algorithms) - demos of of algorithms using Python's most commonly used libraries numpy, pandas, scipy, matplotlib and scikit-learn
 
 ---
 ### 📊 Personal Projects  
