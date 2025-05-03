@@ -24,7 +24,7 @@ Here, you will find examples of my university and personal projects showcasing c
 
 ---
 ### 📊 Personal Projects  
-- [Automating Data Quality Tests](https://github.com/WafaaN/automating-data-quality-tests) – automating data quality testing using Python to evaluate criteria such as accuracy, completeness, correctness, etc., and produce data quality metrics. Tests are based on best practices and standards e.g. ISO 25012, and can be used by auditors to check the quality of datasets before compliance audits.
+- [Automating Data Quality Tests](https://github.com/WafaaN/automating-data-quality-tests) – using Python, automate common tests for data quality criteria, such as accuracy, completeness, and correctness, and generate data quality metrics. This can be used by auditors to assess the quality of datasets before using them in compliance audits.
 - [Spam Classifier](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – .
 - [Project Name 2](project-link) – Short description.  
 
