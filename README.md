@@ -23,12 +23,13 @@ Here, you will find examples of my university and personal projects showcasing c
 - [ML Algorithms](https://github.com/WafaaN/Machine-Learning-Algorithms) - demos of of algorithms using Python's most commonly used libraries numpy, pandas, scipy, matplotlib and scikit-learn.
 
 ---
+### 📊 Personal Projects  
+- [Automating Data Quality Tests](https://github.com/WafaaN/automating-data-quality-tests) – using Python to automate data quality tests (accurecy, completness, correctness etc.) based on ISO 25012, DAMA-DMBOK and COBIT2019.  
+- [Spam Classifier](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – .
+- [Project Name 2](project-link) – Short description.  
+
+---
 ### 📄 Research & Thesis  
 - [Legal Secondary Study on Semantic Models for Processing of Regulations (Guided Research 2023)](https://github.com/WafaaN/research/blob/main/GR2023_LegalTextProcessing.pdf)  
 - [Secondary Study on Regulatory Text Processing Solutions for Developing Compliant Software Systems (MSc Thesis 2024)](https://github.com/WafaaN/research/blob/main/MScThesis_LegaTextlProcessComplntSystems.pdf)  
 
----
-### 📊 Personal Projects  
-- [Spam Classifier](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – .
-- [Project Name 1](project-link) – Short description.  
-- [Project Name 2](project-link) – Short description.  
