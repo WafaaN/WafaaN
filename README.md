@@ -25,8 +25,8 @@ Here, you will find examples of my university and personal projects showcasing c
 ---
 ### 📊 Personal Projects  
 - [Automating Data Quality Tests](https://github.com/WafaaN/automating-data-quality-tests) – using Python, automate common tests for data quality criteria, such as accuracy, completeness, and correctness, and generate data quality metrics. This can be used by auditors to assess the quality of datasets before using them in compliance audits.
-- [Spam Classifier](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – .
-- [Project Name 2](project-link) – Short description.  
+- [Data Engineer/Governance/Management Jobs Market Analysis](https://github.com/WafaaN/data_jobs_market_analysis) – study explores and compares job requirements and other attributes advertised for Data Engineering, Data Governance, and Data Management jobs. Uses Python and NLP techniques on data manually collected from LinkedIn (2025)
+<!-- - [Spam Classifier](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) -->.
 
 ---
 ### 📄 Research & Thesis  
