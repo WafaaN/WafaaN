@@ -19,9 +19,10 @@ Here, you will find examples of my university and personal projects showcasing c
 - [City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R) – R, data wrangling, exploratory plots, descriptive statistics and hypothesis testing.  
 - [Robot Dashboard](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Cloud Process Execution Engine (CPEE.org), InfluxDB time-series database, and online responsive dashboard.
 - [Cloud App Deployment](https://github.com/abhishekkarki/cloud-app-deployment) – development of a  cloud-native microservices application, containerization with Docker, orchestration with Kubernetes, and hosting on Google Cloud Platform (GCP) for scalability and resilience.
-- [Eigenfaces](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Dimesnionality reduction using PCA, kernel PCA and feature selection.
+- [Dimensionality Reduction - PCA vs Kernel PCA Compariso](https://github.com/WafaaN/pca-kpca-comparison) – Dimesnionality reduction using PCA, kernel PCA and comparing performance using .
 
 <!-- 
+- [Eigenfaces](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Dimesnionality reduction using PCA, kernel PCA and feature selection.
 - [ML Algorithms](https://github.com/WafaaN/Machine-Learning-Algorithms) - demos of of algorithms using Python's most commonly used libraries numpy, pandas, scipy, matplotlib and scikit-learn.
 --> 
 
@@ -29,7 +30,7 @@ Here, you will find examples of my university and personal projects showcasing c
 ---
 ### 📊 Personal Projects  
 - [Automating Data Quality Tests](https://github.com/WafaaN/automating-data-quality-tests) – using Python, automate common tests for data quality criteria, such as accuracy, completeness, and correctness, and generate data quality metrics. This can be used by auditors to assess the quality of datasets before using them in compliance audits.
-
+- 
 <!-- -- [Data Engineer/Governance/Management Jobs Market Analysis](https://github.com/WafaaN/data_jobs_market_analysis) – study explores and compares job requirements and other attributes advertised for Data Engineering, Data Governance, and Data Management jobs. Uses Python and NLP techniques on data manually collected from LinkedIn (2025)
 <!-- - [Spam Classifier](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) -->.
 
