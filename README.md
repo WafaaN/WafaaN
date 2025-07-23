@@ -19,7 +19,7 @@ Here, you will find examples of my university and personal projects showcasing c
 - [City of Barcelona Case Study](https://github.com/WafaaN/Barcelona-Case-Study-Statistics-with-R) – R, data wrangling, exploratory plots, descriptive statistics and hypothesis testing.  
 - [Robot Dashboard](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Cloud Process Execution Engine (CPEE.org), InfluxDB time-series database, and online responsive dashboard.
 - [Cloud App Deployment](https://github.com/abhishekkarki/cloud-app-deployment) – development of a  cloud-native microservices application, containerization with Docker, orchestration with Kubernetes, and hosting on Google Cloud Platform (GCP) for scalability and resilience.
-- [Dimensionality Reduction - PCA vs Kernel PCA Compariso](https://github.com/WafaaN/pca-kpca-comparison) – Dimesnionality reduction using PCA, kernel PCA and comparing performance using .
+- [Dimensionality Reduction - PCA vs Kernel PCA Comparison](https://github.com/WafaaN/pca-kpca-comparison) – Dimesnionality reduction using PCA, kernel PCA and comparing performance using .
 
 <!-- 
 - [Eigenfaces](https://github.com/WafaaN/Robot_Dashboard_CPEE_PAIS) – Dimesnionality reduction using PCA, kernel PCA and feature selection.
