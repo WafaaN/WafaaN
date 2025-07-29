@@ -32,7 +32,7 @@ Here, you will find examples of my university and personal projects showcasing c
 ## Data Quality and Governance: 
 - [Automating Data Quality Tests](https://github.com/WafaaN/automating-data-quality-tests) – using Python, automate common tests for data quality criteria, such as accuracy, completeness, and correctness, and generate data quality metrics. This can be used by auditors to assess the quality of datasets before using them in compliance audits.
 ## ML Projects 
-- [Mobile App Classifier](https://github.com/WafaaN/mobile-app-classifier) : Complete ML pipeline featuring exploratory data analysis, feature engineering with dimensionality reduction, comparative PCA vs. Kernel PCA, classifier training, evaluation, and interpretation.
+- [Mobile App Classifier](https://github.com/WafaaN/mobile-app-classifier): Complete ML pipeline featuring exploratory data analysis, feature engineering with dimensionality reduction, comparative PCA vs. Kernel PCA, classifier training, evaluation, and interpretation.
 
 ## Data Compliance
 
