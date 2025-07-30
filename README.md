@@ -43,6 +43,6 @@ Here, you will find examples of my university and personal projects showcasing c
 
 ---
 ### 📄 Research & Thesis  
-- [Legal Secondary Study on Semantic Models for Processing of Regulations (Guided Research 2023)](https://github.com/WafaaN/research/blob/main/GR2023_LegalTextProcessing.pdf)  
+- [Secondary Study on Semantic Models for Processing of Regulations (Guided Research 2023)](https://github.com/WafaaN/research/blob/main/GR2023_LegalTextProcessing.pdf)  
 - [Secondary Study on Regulatory Text Processing Solutions for Developing Compliant Software Systems (MSc Thesis 2024)](https://github.com/WafaaN/research/blob/main/MScThesis_LegaTextlProcessComplntSystems.pdf)  
 
