@@ -31,6 +31,9 @@ Here, you will find examples of my university and personal projects showcasing c
 ### 📊 Personal Projects 
 ## Data Quality and Governance: 
 - [Automating Data Quality Tests](https://github.com/WafaaN/automating-data-quality-tests) – using Python, automate common tests for data quality criteria, such as accuracy, completeness, and correctness, and generate data quality metrics. This can be used by auditors to assess the quality of datasets before using them in compliance audits.
+## Information Security, Compliance and Risk Analytics:
+- [Risk-based User Access Monitoring](https://github.com/WafaaN/automating-data-quality-tests) – analysis of user access logs (login times, IP addresses, device info) to detect unusual patterns. Then flags potential insider threats or unauthorized access using ML-based anomaly detection techniques. 
+ 
 ## ML Projects 
 - [Mobile App Classifier](https://github.com/WafaaN/mobile-app-classifier): Complete ML pipeline featuring exploratory data analysis, feature engineering with dimensionality reduction,classifier training, evaluation, and conclusion.
 
