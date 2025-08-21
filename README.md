@@ -36,6 +36,7 @@ Here, you will find examples of my university and personal projects showcasing c
  
 ## ML Projects 
 - [Mobile App Classifier](https://github.com/WafaaN/mobile-app-classifier): Complete ML pipeline featuring exploratory data analysis, feature engineering with dimensionality reduction,classifier training, evaluation, and conclusion.
+- [Anomaly Detection for Bank Transactions](https://github.com/WafaaN/anomalies-ml-bank-trxns): Detect anomalies in bank transactions using an unsupervised dataset and models: Isolation Forest, One-Class SVM, DBSCAN, and LOF.
 
 ## Data Compliance
 
